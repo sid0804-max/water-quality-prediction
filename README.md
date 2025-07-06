@@ -18,19 +18,31 @@ CL (Chloride)
 O2 (Dissolved Oxygen)
 
 # 🧠 Technologies Used
+
 Python 3.12
+
 Pandas, NumPy – Data preprocessing & manipulation
+
 Scikit-learn – Model training and evaluation
+
 Matplotlib, Seaborn – Data visualization
+
 Streamlit – Web app for user interaction
+
 Joblib – Model serialization
+
 Jupyter Notebook – Experimentation and analysis
 
 # 🛠️ Methodology
+
 Data Collection – Real-world water quality dataset
+
 Preprocessing – Cleaning, feature selection, train-test split
+
 Modeling – Multi-target regression using RandomForestRegressor
+
 Evaluation – R² Score and Mean Squared Error
+
 Deployment – Streamlit app using a custom app.py file
 
 # 📊 Results
