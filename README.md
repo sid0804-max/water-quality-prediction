@@ -8,9 +8,13 @@ Access to clean water is a critical global concern. Manual testing of water samp
 The model is trained to predict the following water quality indicators:
 
 NO3 (Nitrates)
+
 NO2 (Nitrites)
+
 PO4 (Phosphates)
+
 CL (Chloride)
+
 O2 (Dissolved Oxygen)
 
 # 🧠 Technologies Used
