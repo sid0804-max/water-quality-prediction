@@ -14,12 +14,8 @@ Access to **clean water** is a critical global concern. Manual testing of water 
 
 The model is trained to predict the following water quality indicators:
 
-- **NH4** (Ammonium)
-- **BOD5** (Biochemical Oxygen Demand)
-- **Colloids**
 - **NO3** (Nitrates)
 - **NO2** (Nitrites)
-- **SO4** (Sulfates)
 - **PO4** (Phosphates)
 - **CL** (Chloride)
 - **O2** (Dissolved Oxygen)
